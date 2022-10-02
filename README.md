@@ -4,6 +4,3 @@
     -git clone
     -npm install
     -npm run dev
-
-## Preview
-    ![preview](public/img/preview.jpg)
